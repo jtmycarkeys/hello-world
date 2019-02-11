@@ -1,7 +1,7 @@
 # hello-world
 Hello,
 
-jtmycarkeys here. I would like to become a developer and this is practice.
+jtmycarkeys here. I would like to become a developer and this is github practice.
 
 Career interests:  Identity Management, Software Development, Risk Management, Virtualization,
 Database Administration.
